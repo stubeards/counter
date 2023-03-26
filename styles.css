@@ -1,14 +1,10 @@
 /*
-=============== 
 Fonts
-===============
 */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
 
 /*
-=============== 
 Variables
-===============
 */
 
 :root {
@@ -164,6 +160,8 @@ main {
 }
 .container {
   text-align: center;
+  padding-top: 10em;
+
 }
 #value {
   font-size: 6rem;
